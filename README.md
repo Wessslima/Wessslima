@@ -22,3 +22,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 <br>
 <br>
+       <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wessslima&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<br>
+<br>
+
+![Snake animation](https://github.com/Wessslima/Wessslima/blob/output/github-contribution-grid-snake.svg)
