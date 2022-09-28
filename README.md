@@ -23,10 +23,10 @@
 <br>
 <br>
 <hr> 
-
-![Snake animation](https://github.com/Wessslima/Wessslima/blob/output/github-contribution-grid-snake.svg)
 <br>
 <br>
        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wessslima&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 <br>
 <br>
+
+![Snake animation](https://github.com/Wessslima/Wessslima/blob/output/github-contribution-grid-snake.svg)
