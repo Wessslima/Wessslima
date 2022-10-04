@@ -1,5 +1,5 @@
 <div align="center">  
-       <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120"/>
+       <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=130"/>
        <img width="250" height="240" src="https://github.com/Wessslima/img/blob/main/Hi%203.png">
 </div>
 
@@ -19,14 +19,9 @@
        <img width="133" height="30em" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=turquoise"/>        
        <a href="https://www.instagram.com/oeste.prado/" target="_blank">
        <img width="133" height="30em" src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=turquoise"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=130&section=footer"/>
 <br>
 <br>
 <hr> 
 <br>
 <br>
-       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wessslima&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-<br>
-<br>
-
-![Snake animation](https://github.com/Wessslima/Wessslima/blob/output/github-contribution-grid-snake.svg)
