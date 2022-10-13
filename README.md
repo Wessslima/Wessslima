@@ -41,3 +41,4 @@
 ![Snake animation](https://github.com/Wessslima/Wessslima/blob/output/github-contribution-grid-snake.svg)
 <br>
 <br>
+<br>
