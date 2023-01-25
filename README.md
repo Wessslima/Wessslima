@@ -17,7 +17,7 @@
 <div align="center">           
        <a href="https://www.linkedin.com/in/wessslima/">
        <img width="133" height="30em" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=turquoise"/>        
-      
+</div>      
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=130&section=footer"/>
 <br>
 <br>
